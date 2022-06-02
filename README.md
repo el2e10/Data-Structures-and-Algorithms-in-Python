@@ -1,7 +1,14 @@
 # Data Structures and Algorithms in Python
 
+## References
+1. Data Structures and Algorithms in Python, Michael T. Goodrich ([link](https://amzn.to/3agdTYA))
+
+## Daily update
+- 01/06/2022 - Recursion  
+
+
 
 ## Recursion
-### Resources used:
+#### Resources used:
 - Recursion in Programming - Full Course -> https://www.youtube.com/watch?v=IJDJ0kBx2LM&t=82s 
-- Data Structures and Algorithms in Python, Michael T. Goodrich
+- Reference No.1 Chapter 4
