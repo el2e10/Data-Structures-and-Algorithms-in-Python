@@ -4,11 +4,13 @@
 1. Data Structures and Algorithms in Python, Michael T. Goodrich ([link](https://amzn.to/3agdTYA))
 
 ## Daily update
-- 01/06/2022 - Recursion  
-- 02/06/2022 - Recursion  
-- 03/06/2022 - Array  
-- 04/06/2022 - Recursion  
-- 05/06/2022 - Recursion  
+1 01/06/2022 - Recursion  
+2 02/06/2022 - Recursion  
+3 03/06/2022 - Array  
+4 04/06/2022 - Recursion  
+5 05/06/2022 - Recursion  
+6 07/06/2022 - Array  
+7 08/06/2022 - Array  
 
 
 ## Recursion
